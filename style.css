@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.menu1{
+    float:left;
+    padding: 5px;
+}
+.menu{
+    list-style: none;
+}
+#Contact{
+    size:100px;
+}
+#Contact iframe{
+    width:100%;
+}
